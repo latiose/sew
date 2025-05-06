@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE articles SYSTEM "circuito.dtd">
+<circuitos>
+<circuito nombre="Shanghai" longitud="5.451" anchura="4.2" fecha2024="2024-04-19" horaes="9:00" nvueltas="56" localidad="Shanghai" pais="China">
+
+<referencias>
+    <referencia ref="https://es.wikipedia.org/wiki/Gran_Premio_de_China"></referencia>
+    <referencia ref="https://www.andaluz78slot.com/es/blog/disenos-de-circuitos/formula-1-gp-shanghai-circuito-internacional-de-shanghai"></referencia>
+    <referencia ref="https://lebalap.academy/f1/circuito-internacional-de-shanghai"></referencia>
+</referencias>
+<imagenes>
+    <imagen foto="aerea.jpg"></imagen>
+    <imagen foto="parrilla.jpg"></imagen>
+    <imagen foto="primerplano.jpg"></imagen>
+    <imagen foto="primerapersona.jpg"></imagen>
+</imagenes>
+<videos>
+    <video titulo="video.mp4"></video>    
+</videos>
+
+<coordenada longitud="121.2203" altitud="3" latitud="31.3383"></coordenada> 
+ <tramos>
+           
+            <tramo distancia="26.646470590575074" numerotramo="1">
+                <coordenada latitud="31.33778" longitud="121.21639" altitud="4"/>
+            </tramo>
+            <tramo distancia="25.694810927640738" numerotramo="2">
+                <coordenada latitud="31.33778" longitud="121.21667" altitud="3"/>
+            </tramo>
+            <tramo distancia="31.045079952276723" numerotramo="3">
+                <coordenada latitud="31.33778" longitud="121.21694" altitud="2"/>
+            </tramo>
+            <tramo distancia="31.045078597548347" numerotramo="4">
+                <coordenada latitud="31.33750" longitud="121.21694" altitud="2"/>
+            </tramo>
+            <tramo distancia="40.912610873648745" numerotramo="5">
+                <coordenada latitud="31.33722" longitud="121.21694" altitud="2"/>
+            </tramo>
+            <tramo distancia="26.646707301793736" numerotramo="6">
+                <coordenada latitud="31.33694" longitud="121.21722" altitud="2"/>
+            </tramo>
+            <tramo distancia="40.912610873648745" numerotramo="7">
+                <coordenada latitud="31.33694" longitud="121.21750" altitud="2"/>
+            </tramo>
+            <tramo distancia="62.09015854985785" numerotramo="8">
+                <coordenada latitud="31.33722" longitud="121.21778" altitud="2"/>
+            </tramo>
+            <tramo distancia="162.18838396431045" numerotramo="9">
+                <coordenada latitud="31.33778" longitud="121.21778" altitud="3"/>
+            </tramo>
+            <tramo distancia="140.09678006669282" numerotramo="10">
+                <coordenada latitud="31.33889" longitud="121.21667" altitud="4"/>
+            </tramo>
+            <tramo distancia="258.7979906541536" numerotramo="11">
+                <coordenada latitud="31.33972" longitud="121.21556" altitud="4"/>
+            </tramo>
+            <tramo distancia="26.645298230034786" numerotramo="12">
+                <coordenada latitud="31.34194" longitud="121.21472" altitud="4"/>
+            </tramo>
+            <tramo distancia="61.12348669564069" numerotramo="13">
+                <coordenada latitud="31.34194" longitud="121.21500" altitud="4"/>
+            </tramo>
+            <tramo distancia="267.768835127169" numerotramo="14">
+                <coordenada latitud="31.34167" longitud="121.21556" altitud="4"/>
+            </tramo>
+            <tramo distancia="61.67517345994644" numerotramo="15">
+                <coordenada latitud="31.33972" longitud="121.21722" altitud="4"/>
+            </tramo>
+            <tramo distancia="105.63236820628225" numerotramo="16">
+                <coordenada latitud="31.33944" longitud="121.21778" altitud="2"/>
+            </tramo>
+            <tramo distancia="81.20768309282451" numerotramo="17">
+                <coordenada latitud="31.33944" longitud="121.21889" altitud="5"/>
+            </tramo>
+            <tramo distancia="95.80645314211637" numerotramo="18">
+                <coordenada latitud="31.34000" longitud="121.21944" altitud="5"/>
+            </tramo>
+            <tramo distancia="85.75357932065403" numerotramo="19">
+                <coordenada latitud="31.34083" longitud="121.21972" altitud="4"/>
+            </tramo>
+            <tramo distancia="60.854111523842704" numerotramo="20">
+                <coordenada latitud="31.34111" longitud="121.22056" altitud="5"/>
+            </tramo>
+            <tramo distancia="106.34312826210437" numerotramo="21">
+                <coordenada latitud="31.34083" longitud="121.22111" altitud="4"/>
+            </tramo>
+            <tramo distancia="25.69420765319354" numerotramo="22">
+                <coordenada latitud="31.34000" longitud="121.22167" altitud="5"/>
+            </tramo>
+            <tramo distancia="81.82407059337945" numerotramo="23">
+                <coordenada latitud="31.34000" longitud="121.22194" altitud="6"/>
+            </tramo>
+            <tramo distancia="465.62446887398494" numerotramo="24">
+                <coordenada latitud="31.34056" longitud="121.22250" altitud="6"/>
+            </tramo>
+         
+            <tramo distancia="61.67301694697237" numerotramo="25">
+                <coordenada latitud="31.34417" longitud="121.22000" altitud="4"/>
+            </tramo>
+            <tramo distancia="60.85266206606309" numerotramo="26">
+                <coordenada latitud="31.34389" longitud="121.21944" altitud="3"/>
+            </tramo>
+            <tramo distancia="60.98147178480441" numerotramo="27">
+                <coordenada latitud="31.34417" longitud="121.21889" altitud="4"/>
+            </tramo>
+            <tramo distancia="40.9112114355922" numerotramo="28">
+                <coordenada latitud="31.34472" longitud="121.21889" altitud="4"/>
+            </tramo>
+            <tramo distancia="78.98172034004128" numerotramo="29">
+                <coordenada latitud="31.34500" longitud="121.21917" altitud="4"/>
+            </tramo>
+            <tramo distancia="61.67261469410925" numerotramo="30">
+                <coordenada latitud="31.34500" longitud="121.22000" altitud="4"/>
+            </tramo>
+            <tramo distancia="1201.5188418968637" numerotramo="31">
+                <coordenada latitud="31.34472" longitud="121.22056" altitud="5"/>
+            </tramo>
+   
+            <tramo distancia="40.078034422521604" numerotramo="32">
+                <coordenada latitud="31.33583" longitud="121.22778" altitud="5"/>
+            </tramo>
+            <tramo distancia="66.54918118532063" numerotramo="33">
+                <coordenada latitud="31.33556" longitud="121.22750" altitud="5"/>
+            </tramo>
+            <tramo distancia="302.29189098236367" numerotramo="34">
+                <coordenada latitud="31.33611" longitud="121.22722" altitud="4"/>
+            </tramo>
+            <tramo distancia="789.074510676197" numerotramo="35">
+                <coordenada latitud="31.33806" longitud="121.22500" altitud="3"/>
+            </tramo>
+            <tramo distancia="99.78949341053057" numerotramo="36">
+                <coordenada latitud="31.33639" longitud="121.21694" altitud="3"/>
+            </tramo>
+            <tramo distancia="31.04507724140957" numerotramo="37">
+                <coordenada latitud="31.33694" longitud="121.21611" altitud="4"/>
+            </tramo>
+            <tramo distancia="31.045078597548347" numerotramo="38">
+                <coordenada latitud="31.33722" longitud="121.21611" altitud="4"/>
+            </tramo>
+			 <tramo distancia="40.912510150361804" numerotramo="39">
+                <coordenada latitud="31.33750" longitud="121.21611" altitud="4"/>
+            </tramo>
+			 <tramo distancia="40.078034422521604" numerotramo="40">
+                <coordenada latitud="31.33778" longitud="121.21639" altitud="4"/>
+            </tramo>
+        </tramos>
+
+</circuito>
+
+</circuitos>

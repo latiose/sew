@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+	<link rel ="icon" href="multimedia/imagenes/favicon.ico" />
+    <title>F1 Desktop Circuito</title>
+	<meta name ="author" content ="Pablo Pérez Álvarez" />
+	<meta name ="description" content =" Circuito" />
+	<meta name ="keywords" content ="f1,mapa,xml,kml,svg,shanghai" />
+	<meta name ="viewport" content ="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" href="estilo/estilo.css" />
+	<link rel="stylesheet" href="estilo/layout.css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTrIKXCE08WLNimTdu5W0taOgFe08W6N4" async defer></script>
+</head>
+
+<body>
+<header>
+    <h1>F1 Desktop</h1>
+	<nav>
+	<a href="piloto.html">Piloto</a>
+	<a href="noticias.html">Noticias</a>
+	<a href="calendario.html">Calendario</a>
+	<a href="meteorologia.html">Meteorología</a>
+	<a href="circuito.html" class="active">Circuito</a>
+	<a href="viajes.php">Viajes</a>
+	<a href="juegos.html">Juegos</a>
+	</nav>
+	</header>
+	<p> Estás en: <a href="index.html">Inicio</a> >> Circuito </p>
+	<main>
+	<h2>Circuito</h2>
+	<p>
+        <label for="xmlFile">Cargar archivo XML:</label>
+        <input id="xmlFile" type="file" accept=".xml" onchange="circuito.leerArchivoXML(this.files);">
+    </p>
+	<article><h3>KML:</h3></article>
+	<p>
+        <label for="kmlFile">Cargar archivo KML:</label>
+        <input id="kmlFile" type="file" accept=".kml" onchange="circuito.leerArchivoKML(this.files);">
+    </p>
+	<section>   
+		<div></div>
+		<h3>SVG:</h3>
+	</section>
+	<p>
+        <label for="svgFile">Cargar archivo SVG:</label>
+        <input id="svgFile" type="file" accept=".svg" onchange="circuito.leerArchivoSVG(this.files);">
+    </p>
+	<svg></svg>
+	<script src="js/viajes.js"></script> 
+	<script src="js/circuito.js"></script> 
+	</main>
+</body>
+</html>

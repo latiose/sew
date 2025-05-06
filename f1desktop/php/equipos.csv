@@ -1,0 +1,12 @@
+equipos
+id_equipo,nombre,pais_origen
+1,Red Bull,Austria
+2,Mercedes,Alemania
+3,Ferrari,Italia
+4,McLaren,Reino Unido
+5,Aston Martin,Reino Unido
+6,Alpine,Francia
+7,AlphaTauri,Italia
+8,Alfa Romeo,Suiza
+9,Haas,Estados Unidos
+10,Williams,Reino Unido

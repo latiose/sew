@@ -1,0 +1,19 @@
+ /*Pablo Pérez Álvarez UO294197*/
+
+ /*especificidad 001*/
+  article {
+    background-color: #b68d40; 
+    color: #122620; 
+    padding: 1em; 
+    margin: 1.5em 0; 
+    border-radius: 0.5em; 
+    box-shadow: 0 0.3em 0.5em rgba(0, 0, 0, 0.1); 
+    transition: box-shadow 0.3s ease; 
+  }
+
+ /*especificidad 003*/
+article  > ul > li {
+    background-color: #b68d40; 
+    color: #122620; 
+} 
+

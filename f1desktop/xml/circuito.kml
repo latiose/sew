@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>
+Tramo 1
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21639,31.33778,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 2
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21667,31.33778,3
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 3
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21694,31.33778,2
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 4
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21694,31.33750,2
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 5
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21694,31.33722,2
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 6
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21722,31.33694,2
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 7
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21750,31.33694,2
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 8
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21778,31.33722,2
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 9
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21778,31.33778,3
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 10
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21667,31.33889,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 11
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21556,31.33972,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 12
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21472,31.34194,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 13
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21500,31.34194,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 14
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21556,31.34167,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 15
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21722,31.33972,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 16
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21778,31.33944,2
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 17
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21889,31.33944,5
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 18
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21944,31.34000,5
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 19
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21972,31.34083,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 20
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.22056,31.34111,5
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 21
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.22111,31.34083,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 22
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.22167,31.34000,5
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 23
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.22194,31.34000,6
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 24
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.22250,31.34056,6
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 25
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.22000,31.34417,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 26
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21944,31.34389,3
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 27
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21889,31.34417,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 28
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21889,31.34472,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 29
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21917,31.34500,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 30
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.22000,31.34500,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 31
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.22056,31.34472,5
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 32
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.22778,31.33583,5
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 33
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.22750,31.33556,5
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 34
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.22722,31.33611,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 35
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.22500,31.33806,3
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 36
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21694,31.33639,3
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 37
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21611,31.33694,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 38
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21611,31.33722,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 39
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21611,31.33750,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><Placemark><name>
+Tramo 40
+</name><description>
+Punto del tramo del circuito
+</description><Point><coordinates>
+121.21639,31.33778,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></Point></Placemark><name>
+Recorrido del Circuito
+</name><Placemark><LineString><extrude>
+1
+</extrude><tessellation>
+1
+</tessellation><coordinates>
+121.21639,31.33778,4
+121.21667,31.33778,3
+121.21694,31.33778,2
+121.21694,31.33750,2
+121.21694,31.33722,2
+121.21722,31.33694,2
+121.21750,31.33694,2
+121.21778,31.33722,2
+121.21778,31.33778,3
+121.21667,31.33889,4
+121.21556,31.33972,4
+121.21472,31.34194,4
+121.21500,31.34194,4
+121.21556,31.34167,4
+121.21722,31.33972,4
+121.21778,31.33944,2
+121.21889,31.33944,5
+121.21944,31.34000,5
+121.21972,31.34083,4
+121.22056,31.34111,5
+121.22111,31.34083,4
+121.22167,31.34000,5
+121.22194,31.34000,6
+121.22250,31.34056,6
+121.22000,31.34417,4
+121.21944,31.34389,3
+121.21889,31.34417,4
+121.21889,31.34472,4
+121.21917,31.34500,4
+121.22000,31.34500,4
+121.22056,31.34472,5
+121.22778,31.33583,5
+121.22750,31.33556,5
+121.22722,31.33611,4
+121.22500,31.33806,3
+121.21694,31.33639,3
+121.21611,31.33694,4
+121.21611,31.33722,4
+121.21611,31.33750,4
+121.21639,31.33778,4
+</coordinates><altitudeMode>
+relativeToGround
+</altitudeMode></LineString><Style><LineStyle><color>
+#ff0000ff
+</color><width>
+5
+</width></LineStyle></Style></Placemark></Document></kml>

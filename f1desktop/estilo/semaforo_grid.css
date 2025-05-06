@@ -1,0 +1,149 @@
+ /*Pablo Pérez Álvarez UO294197*/
+
+ /*Especifidad 002*/
+main > section {
+    width: 50%;
+    height: 40%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1em;
+    align-items: center;
+}
+
+
+ /*Especifidad 003*/
+main >section > h2  {
+    grid-column: 1 / -1;
+	font-size: 2.8em;
+    text-align: center;
+}
+
+/*Especifidad 002*/
+section > a {
+    padding: 0.5em;
+    border: 0.1em solid #b68d40;
+    border-radius: 0.3em;
+}
+
+/*Especifidad 003*/
+main > section > p {
+  grid-column: 2 / span 2;
+  text-align: center;
+}
+
+ /*Especifidad 001*/
+ /*hereda color de primer plano de body*/
+div {
+    background-color: #0007;
+    border: 0.3em solid black;
+    aspect-ratio: 1;
+    border-radius: 50%;
+	width: 85%;
+    min-width: 5.5em; 
+    min-height: 5.5em; 
+}
+ /*Especifidad 001*/
+button{
+    margin-top: 1em;
+	 width: 100%;
+	 margin-bottom: 0.5em;
+}
+ /*Especifidad 011*/
+button:first-of-type {
+    grid-column: 2 / span 1;
+}
+ /*Especifidad 011*/
+button:nth-of-type(2) {
+    grid-column: 3 / span 1;
+}
+ /*hereda color de primer plano de body
+ se redefine background-color para la animación del semáforo*/
+@keyframes in {
+    from { background-color: #0007;}
+    to { background-color: #FF0000;}
+}
+
+ /*hereda color de primer plano de body
+  se redefine background-color para la animación del semáforo*/
+@keyframes out {
+    from { background-color: #FF0000;}
+    to { background-color: #0007;}
+}
+ /*Especifidad 011*/
+.load div{
+	animation-name: in;
+	animation-fill-mode: forwards;
+	animation-duration: 0.5s;
+}
+ /*Especifidad 011*/
+.unload div{
+	animation-name: out;
+	animation-fill-mode: backwards;
+	animation-duration: 0.1s;
+	animation-delay: 0.1s;
+}
+ /*Especifidad 021*/
+.load div:first-of-type{
+	animation-delay: 0s;
+}
+ /*Especifidad 021*/
+.load div:nth-of-type(2){
+	animation-delay: 0.5s;
+}
+ /*Especifidad 021*/
+.load div:nth-of-type(3){
+	animation-delay: 1s;
+}
+ /*Especifidad 021*/
+.load div:nth-of-type(4){
+	animation-delay: 1.5s;
+}
+ /*Especifidad 003*/
+ main > article > form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 1em;
+    margin: auto;
+}
+ /*Especifidad 014*/
+main > article > form input[type="text"], 
+main > article > form input[type="button"] {
+    padding: 0.5em;
+    border-radius: 0.3em;
+    font-size: 1em;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 0.5em;
+}
+ /*Especifidad 014*/
+main > article > form input[type="button"] {
+    background-color: #b68d40;
+    color: black;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+ /*Especifidad 003*/
+main > article > p {
+    text-align: center;
+}
+ /*Especifidad 004*/
+main > article > ol > li {
+    margin-bottom: 0.5em;
+    padding: 0.5em 0.5em 0.5em 1.5em;
+    border-radius: 0.3em;
+    position: relative;
+    background: #b68d40;
+    color: black;
+    word-wrap: break-word;
+}
+
+/*Especifidad 003*/
+main > article > h3 {
+    text-align: center;
+    grid-column: 1 / -1;
+}

@@ -1,0 +1,84 @@
+ /*Pablo Pérez Álvarez UO294197*/
+ 
+  /*Especifidad 001*/ 
+ header{
+	display: flex; 
+	flex-direction: row;
+  justify-content: space-between; 
+  align-items: baseline;
+  padding: 0.7em 1.3em;
+	background-color:#b68d40;
+	color: #1a1a1a;
+	font-weight: bold;
+	/*color se hereda de h1,nav*/
+ }
+ nav {
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 0.5em; 
+}
+  /*Especifidad 002*/
+ nav a {
+    color: #000000;
+    text-decoration: none; 
+    padding: 1.2em 1.5em; 
+    margin: 0.5em 0; 
+    font-size: 1.1em; 
+}
+
+ /*Especifidad 012*/
+ /* hereda color de fondo de header */
+nav a:link{
+	color: #000000;
+}
+ /*Especifidad 012*/
+/* hereda color de fondo de header */
+nav a:visited{
+	color: #000000;
+}
+ /*Especifidad 011*/
+  /* hereda color de primer plano de header */
+nav .active {
+  background-color: #a8742a;
+  color: #ffffff;
+    border-radius: 0.25em; 
+}
+ /*Especifidad 012*/
+  /* hereda color de primer plano de header */
+nav a:hover {
+  background-color: #a8742a; 
+   color: #ffffff; 
+	 border-radius: 0.25em; 
+}
+
+
+@media (max-width: 850px) {
+   /*Especifidad 001*/
+  header {
+	  height: auto;
+    width: 100%;
+  }
+  /*redefine padding-bottom,padding-left,padding-top,padding-right y font size para que se ajuste mejor a dispositivos móviles*/
+  /*Especifidad 002*/
+  nav a {
+    padding: 0.8em; 
+	  font-size: 0.9em;
+  }
+
+
+ /*Especifidad 011*/
+  /* hereda color de primer plano de header */
+  nav .active {
+    background-color: #d6ad60; 
+    border-radius: 0.1em; 
+}
+ /*Especifidad 012*/
+  /* hereda color de primer plano de header */
+nav a:hover {
+  background-color: #d6ad60; 
+	 border-radius: 0.1em; 
+}
+
+}
+
+

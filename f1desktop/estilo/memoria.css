@@ -1,0 +1,88 @@
+  /*Pablo Pérez Álvarez UO294197*/
+ /*Especifidad 002*/
+ main > section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 1em;
+    padding: 0.7em;
+}
+
+
+/*Especifidad 003*/
+main > section > h2, main > section > p {
+    flex-basis: 100%;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+/* Especifidad 003 */
+main > section > article {
+    background-color: #b68d40;
+    color: black;
+    width: calc(25% - 1.3em); 
+    height: calc(30% - 1.3em);
+    box-sizing: border-box;
+    text-align: center;
+    padding: 1em;
+    border-radius: 0.5em;
+    box-shadow: 0em 0.25em 0.5em rgba(0, 0, 0, 0.2);
+    transition: transform 0.5s;
+    transform-style: preserve-3d;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transform: scale(1);
+}
+
+/* Especifidad 004 */
+main > section > article > img {
+    max-width: 100%;
+    height: 7em;
+    width: 7em;
+    margin: 0.7em auto;
+    backface-visibility: hidden;
+    transform: rotateY(180deg);
+}
+
+/*Especifidad 002*/
+section > a {
+    padding: 0.5em;
+    border: 0.1em solid #b68d40;
+    border-radius: 0.3em;
+}
+
+ /*Especifidad 021*/
+article[data-state="flip"],
+article[data-state="revealed"] {
+    transform: rotateY(180deg);
+}
+
+
+ /*Especifidad 002*/
+article h3 {
+    backface-visibility: hidden;
+    position: absolute;
+    margin-top: 0.9em;
+    font-size: 1.3em;
+}
+ /*Especifidad 011*/
+article[data-state="hidden"] h3 {
+    display: block;
+}
+
+@media (max-width: 600px) {
+     /*Especifidad 002*/
+      main > section {
+        flex: 1 1 40%;
+        max-width: 100%;
+    }
+    /*Especifidad 002*/
+    main > section > * {
+        flex: 1 1 40%;
+    }
+
+
+}
+
